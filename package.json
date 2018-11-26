@@ -7,7 +7,7 @@
     "index.js"
   ],
   "dependencies": {
-    "css": "^2.0.0",
+    "css": "git://github.com/alex7r/css.git#master",
     "convert-source-map": "^0.3.3"
   },
   "devDependencies": {
